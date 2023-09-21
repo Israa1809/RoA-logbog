@@ -100,7 +100,7 @@ som den nederste del af tandbørsten skal sidde fast på ved hjælp af den samme
 På den øverste del af tandbørsten er der et hul øverst i siden, hvor endnu en dobbel-clicker skal sidde på. 
 På den anden ende af dobbelt-clickeren skal der sidde 2 runde "samle-dele" som skal holde tandbørstehovedet på plads.
 -----
-####Håndtag + Øverste del af tandbærsten:
+###Håndtag + Øverste del af tandbærsten:
 ![](Images/toothbrush.png)![](Images/toothbrush-space1.png)![](Images/toothbrush-space2.png)  
 
 ####Dobbelt-clicker (loose):  
