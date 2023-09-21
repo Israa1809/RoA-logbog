@@ -102,22 +102,28 @@ På den anden ende af dobbelt-clickeren skal der sidde 2 runde "samle-dele" som 
 
 Håndtag + Øverste del af tandbærsten:
 ![](Images/toothbrush.png)![](Images/toothbrush-space1.png)![](Images/toothbrush-space2.png)
+&nbsp;
+&nbsp;
 
 Dobbelt-clicker (loose):
-&nbsp;
 ![](Images/loose.png)
+&nbsp;
+&nbsp;
 
 Dobbelt-clicker (tight):
-&nbsp;
 ![](Images/tight.png)
+&nbsp;
+&nbsp;
 
 Samle-del (midten):
-&nbsp;
 ![](Images/middle1.png)![](Images/middle2.png)
+&nbsp;
+&nbsp;
 
 Samle-del (enden):
-&nbsp;
 ![](Images/end1.png)![](Images/end2.png)
+&nbsp;
+&nbsp;
 
 Tandbørsten er ikke færdig, da planen var at lave et hulrum inde i til batterier, som det kan ses på vores originale skitse.
 -----
