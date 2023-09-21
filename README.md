@@ -43,6 +43,7 @@ I dag fik vi en opgave, der gik ud på at lave et lyskryds i gruppen. Der var ik
 Vi blev ikke færdige på dagen, og fortsatte derfor arbejdet i gruppen i fritiden.
 ![](Images/trafiklys.png)
 Projekt: traficlight + video
+```
 
 
 -----
@@ -63,14 +64,6 @@ der hver havde deres farve, og påvirke dem til at slukke og tænde igennem wifi
 men det er faktisk bare en url, hvor det er vi kan ændre stien. fx. /1 for tænd og /2 for sluk
 
 Projekt: Wifi + video
------
-## 05-09-2023 - syg
-
------
-## 07-09-2023 - syg
-
------
-## 12-09-2023
 
 -----
 ## 15-09-2023
@@ -85,7 +78,46 @@ Vi lavede også nogle med runde pin's og en stor sort version, så man bedre kun
 
 -----
 ## 19-09-2023
+I dag arbejdede vi videre på samlemekanismen fra vores sidste lektion. 
+Vi skulle lave en ny version, som var drejelig. -tight/loose (T/L). Derudover bygegde vi videre på den, 
+så den kunne blive længere, og man derfor kunne lave dem i forskellige størrelser.
+Vi har fået den næste study-point opgave for, og denne går ud på at modelere noget, som bruger vores clicksystem.
+![](Images/19sep-1.jpg)![](Images/19sep-2.jpg)![](Images/19sep-3.jpg)![](Images/19sep-4.jpg)![](Images/19sep-5.jpg)
 
+-----
+## 20-09-2023 + 21-09-2023
+Her arbejdede vi på vores study-point opgave. Vi vil lave et udkast til en elektronisk tandbørste. 
+Vi startede ud med en skitse tegnet på computeren, og gik derfor i tænkeboks om hvordan vi kunne lave den bedst. 
+
+![](Images/skitse.png)
+
+På den nederste del af skitsen, vil vi gerne lave plads til batterier.
+Den endte med at blive ret godt, og vi fik lavet en prototype, som vi kan vise på fredag.
+Vi støtte på et par problemer undervejs, da vi ikke helt vidste hvordan vi skulle spejle vores clicksystem, 
+men vi endte dog med at løse det og fik lavet en dobbel-clicker.
+Tandbørsten består af flere dele. Der er håndtaget hvor man holder på. Denne er lavet sådan, 
+at der er et hul i toppen, som den øvre del af tandbørsten skal sidde fast på ved hjælp af en dobbel-clicker. 
+Den øvre del af tandbørsten er lavet sådan, at der er et hul i bunden, 
+som den nederste del af tandbørsten skal sidde fast på ved hjælp af den samme dobbel-clicker.
+På den øverste del af tandbørsten er der et hul øverst i siden, hvor endnu en dobbel-clicker skal sidde på. 
+På den anden ende af dobbelt-clickeren skal der sidde 2 runde "samle-dele" som skal holde tandbørstehovedet på plads.
+
+Håndtag + Øverste del af tandbærsten:
+![](Images/toothbrush.png)![](Images/toothbrush-space1.png)![](Images/toothbrush-space2.png)
+
+Dobbelt-clicker (loose):
+![](Images/loose.png)
+
+Dobbelt-clicker (tight):
+![](Images/tight.png)
+
+Samle-del (midten):
+![](Images/middle1.png)![](Images/middle2.png)
+
+Samle-del (enden):
+![](Images/end1.png)![](Images/end2.png)
+
+Tandbørsten er ikke færdig, da planen var at lave et hulrum inde i til batterier, som det kan ses på vores originale skitse.
 -----
 ## 22-09-2023
 
