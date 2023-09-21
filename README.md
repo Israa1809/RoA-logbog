@@ -101,29 +101,19 @@ På den øverste del af tandbørsten er der et hul øverst i siden, hvor endnu e
 På den anden ende af dobbelt-clickeren skal der sidde 2 runde "samle-dele" som skal holde tandbørstehovedet på plads.
 
 Håndtag + Øverste del af tandbærsten:
-![](Images/toothbrush.png)![](Images/toothbrush-space1.png)![](Images/toothbrush-space2.png)
-&nbsp;
-&nbsp;
+![](Images/toothbrush.png)![](Images/toothbrush-space1.png)![](Images/toothbrush-space2.png)  
 
-Dobbelt-clicker (loose):
+Dobbelt-clicker (loose):  
 ![](Images/loose.png)
-&nbsp;
-&nbsp;
 
-Dobbelt-clicker (tight):
+Dobbelt-clicker (tight):  
 ![](Images/tight.png)
-&nbsp;
-&nbsp;
 
-Samle-del (midten):
-![](Images/middle1.png)![](Images/middle2.png)
-&nbsp;
-&nbsp;
+Samle-del (midten):  
+![](Images/middle1.png)![](Images/middle2.png)  
 
-Samle-del (enden):
-![](Images/end1.png)![](Images/end2.png)
-&nbsp;
-&nbsp;
+Samle-del (enden):  
+![](Images/end1.png)![](Images/end2.png)  
 
 Tandbørsten er ikke færdig, da planen var at lave et hulrum inde i til batterier, som det kan ses på vores originale skitse.
 -----
