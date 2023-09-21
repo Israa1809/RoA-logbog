@@ -104,15 +104,19 @@ Håndtag + Øverste del af tandbærsten:
 ![](Images/toothbrush.png)![](Images/toothbrush-space1.png)![](Images/toothbrush-space2.png)
 
 Dobbelt-clicker (loose):
+&nbsp;
 ![](Images/loose.png)
 
 Dobbelt-clicker (tight):
+&nbsp;
 ![](Images/tight.png)
 
 Samle-del (midten):
+&nbsp;
 ![](Images/middle1.png)![](Images/middle2.png)
 
 Samle-del (enden):
+&nbsp;
 ![](Images/end1.png)![](Images/end2.png)
 
 Tandbørsten er ikke færdig, da planen var at lave et hulrum inde i til batterier, som det kan ses på vores originale skitse.
