@@ -43,8 +43,6 @@ I dag fik vi en opgave, der gik ud på at lave et lyskryds i gruppen. Der var ik
 Vi blev ikke færdige på dagen, og fortsatte derfor arbejdet i gruppen i fritiden.
 ![](Images/trafiklys.png)
 Projekt: traficlight + video
-```
-
 
 -----
 
