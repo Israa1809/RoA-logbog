@@ -118,23 +118,54 @@ På den anden ende af dobbelt-clickeren skal der sidde 2 runde "samle-dele" som 
 Tandbørsten er ikke færdig, da planen var at lave et hulrum inde i til batterier, som det kan ses på vores originale skitse.
 
 -----
-## 22-09-2023
+## 22-09-2023 - 29-09-2023
+Dagene er blevet brugt på at lave vores selvvalgte opgave. Vi har i fælleskab og sammen med Tobias valgt at droppe vores projekt med tog,
+og i stedet arbejde på noget andet. I min gruppe har vi valgt at lave en spilledåse, der kan spille pirat musik. Den skal ligne en skattekiste.
+Vi har arbejdet på bunden og toppen af boksen, lukke mekanismer, kroge samt lavet diveres features til boksen.
+Udover at 3D printe, vil vi gerne gåøre brug af vores NodeMCU chip, dioder, buzzer, knap mm. til at lave en funktion, hvor når låget åbnes, 
+så bliver der spillet en lyd, og dioderne tænder. Når kisten lukkes, så skal musikken stoppe med at spille
+![](Images/29sep.png)
+På dette billede ses 4 stolper, det er dem der kommer til at holde vores NodeMCU på plads. Hullet på højre side, er indgangen
+til micro-usb stikket, som skal kobles på vores chip. 
 
------
-## 26-09-2023
+Vi har stadig en del arbejde der skal gøres: printes, få styr på musikken og sætte det hele sammen.
 
------
-## 29-09-2023
+![](Images/IMG_4274.gif)
+![](Images/first.jpg)
 
 -----
 ## 03-10-2023
+I dag arbejdede vi videre på vores skattekiste. Vi fik lavet et testprint, og der var meget godt, da der var nogle ting, 
+som skulle justeres, både i det hul til micro usb'en og ved hængslerne.
+Vi fik musikken til at spille, og knappen virker nu, så man kan tænde og slukke for musikken.
+
+![](Images/Skrmbillede_2023-09-28_kl._09.11.17.png)![](Images/Skrmbillede_2023-09-28_kl._09.11.28.png)![](Images/Skrmbillede_2023-09-28_kl._09.40.01.png)![](Images/Skrmbillede_2023-09-28_kl._09.40.37.png)![](Images/Skrmbillede_2023-09-29_kl._12.13.06.png)![](Images/Skrmbillede_2023-09-29_kl._12.32.33.png)![](Images/Skrmbillede_2023-09-29_kl._12.32.43.png)
 
 -----
-## 06-10-2023
+## 06-10-2023 - 10-10-2023
+Idag fik vi printet vores litophane, og den er blevet rigtig fin. Vi har haft problemer med at dioderne,
+ikke lyste ordentlgit op, så mønterne ikke kunne ses, men det arbejder vi på.
+Knappen har fået loddet ledninger på.
+Æsken er gjort lidt større så der lige præcis er plads til nodeMCU + små boards til dioderne i bunden. 
+Der er blevet printet et større billede af mønterne til den nye størrelse æske. 
+Der er blevet bygget en holder til knappen ind i æsken - den lille holder testprintede vi også 2 gange seperat. 
+Og så har æsken fået kanter som møntbilledet kan ligge og hvile på. Og nu printes der så på livet løs.
+![](Images/litophane.jpg)
+![](Images/Skrmbillede_2023-10-10_kl._20.43.50.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.02.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.27.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.34.png)![](Images/Skrmbillede_2023-10-10_kl._20.46.22.png)![](Images/Skrmbillede_2023-10-10_kl._20.46.33.png)![](Images/Skrmbillede_2023-10-10_kl._21.06.02.png)![](Images/Skrmbillede_2023-10-10_kl._21.06.13.png)
 
------
-## 10-10-2023
-
+Vi havde problemer med supporten til vores 3D print, og derfor blev det ikke så pænt som vi havde håbet på.
+Så næste gang prøver vi igen og sætter det hele sammen.
 -----
 ## 13-10-2023
+I dag fik vi lavet sidste print, sat musikken til og det hele spiller. 
+Her kommer nogle billeder af selve processen, med en video til sidst der viser vores færdige produkt:
+![](Images/E606D687-21FE-4C85-B9EE-BD17707E4032.jpg)
+Dette er vores første æske, og her har vi ikke lavet et rundt låg, men et fladt. 
+I vores kode kan man selv vælge, om man vil have et fladt eller rundt låg.
+![](Images/1DFED9D6-4F39-4480-8F10-9B12874B2571.jpg)
+Dette er det endelige design:
+![](Images/20A420A5-EE90-4141-A235-16B7507DC6B8.jpg)
+![](Images/0B4701B2-59E8-4338-A0C8-B67289800D8D.jpg)
+![](Images/E0A48B4D-001D-430A-9ACB-863BA775B3DD.jpg)![](Images/7DF45A69-8B27-448D-9D74-0BFF6B0F34DC.jpg)
 
+Slut produkt:
