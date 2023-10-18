@@ -155,6 +155,12 @@ Og så har æsken fået kanter som møntbilledet kan ligge og hvile på. Og nu p
 
 Vi havde problemer med supporten til vores 3D print, og derfor blev det ikke så pænt som vi havde håbet på.
 Så næste gang prøver vi igen og sætter det hele sammen.
+
+Når det her projekt er færdigt, vil jeg se om ikke jeg kan få tid til et hygge-projekt i ferien.
+Min inspiration er Simon-game, hvor man skal trykke på forskellige knapper med hver deres tilhørende farver,
+og huske den sidste kombination. Jeg har samlet en masse ledninger, knapper, dioder, modstande, jumpere og en buzzer til spillet,
+og så må vi se hvor det fører hen.
+![](Images/IMG_4569.jpg)
 -----
 ## 13-10-2023
 I dag fik vi lavet sidste print, sat musikken til og det hele spiller. 
@@ -168,5 +174,12 @@ Dette er det endelige design:
 ![](Images/0B4701B2-59E8-4338-A0C8-B67289800D8D.jpg)
 ![](Images/E0A48B4D-001D-430A-9ACB-863BA775B3DD.jpg)![](Images/7DF45A69-8B27-448D-9D74-0BFF6B0F34DC.jpg)
 
-Slut produkt:
+Slut produkt (video):
 https://github.com/Israa1809/RoA-logbog/blob/main/Images/IMG_4454.mov
+
+-----
+## 14-10-2023 - 
+
+Inspiration:
+![](Images/800px-Simon_Electronic_Game.jpg)
+-----
