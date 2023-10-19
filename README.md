@@ -49,9 +49,7 @@ Projekt: traficlight + video
 ## 29-08-2023
 I dag fik vi vi en ny komponent vi skulle lege med. Denne gang var det en knap. Ved at trykke på knappen kunne vi tænde for en blå diode.
 Hvder gruppe i klassen fik udleveret en komponent, som vi skulle lave noget med, og så skulle vi præsentere det for resten af klassen.
-Vi fik en sonar, der kunne måle afstand. Vi prøvede i lang tid at få det til at virke, dog uden held. Dagen efter prøvede Tobias så, og det viste sig, at sonaren nok var defekt. 
-
-Projekt: Button + sonar
+Vi fik en sonar, der kunne måle afstand. Vi prøvede i lang tid at få det til at virke, dog uden held. Dagen efter prøvede Tobias så, og det viste sig, at sonaren nok var defekt.
 ![](Images/button.jpg)
 
 -----
