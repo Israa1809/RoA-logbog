@@ -155,7 +155,6 @@ Og så har æsken fået kanter som møntbilledet kan ligge og hvile på. Og nu p
 
 Vi havde problemer med supporten til vores 3D print, og derfor blev det ikke så pænt som vi havde håbet på.
 Så næste gang prøver vi igen og sætter det hele sammen. 
-
 Når det her projekt er færdigt, vil jeg se om ikke jeg kan få tid til et hygge-projekt i ferien.
 Min inspiration er Simon-game, hvor man skal trykke på forskellige knapper med hver deres tilhørende farver,
 og huske den sidste kombination. Jeg har samlet en masse ledninger, knapper, dioder, modstande, jumpere og en buzzer til spillet,
@@ -183,7 +182,6 @@ https://github.com/Israa1809/RoA-logbog/assets/99342522/5899f73b-7ab5-4dbe-b5c5-
 ## 14-10-2023 - 19-10-2023
 Inspiration:
 ![](Images/800px-Simon_Electronic_Game.jpg)
-<<<<<<< HEAD
 De første par dage gik på at lede efter inspiration på nettet. Der er virkelig mange, som allerede har 
 lavet noget lignende, så der var masser af dokumentation at hente. 
 Jeg vil bruge 4 forskellig farvede dioder: rød, gul, grøn og blå. 
