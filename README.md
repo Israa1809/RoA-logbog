@@ -44,8 +44,7 @@ Vi blev ikke færdige på dagen, og fortsatte derfor arbejdet i gruppen i fritid
 ![](Images/trafiklys.png)
 Projekt: traficlight + video
 
-https://github.com/Israa1809/RoA-logbog/assets/99342522/da0e765a-f208-42c1-b4d2-18b7591b1a94
-
+https://github.com/Israa1809/RoA-logbog/assets/99342522/395d7f55-c0c6-40f8-b515-c3acac8dba3d
 
 -----
 
