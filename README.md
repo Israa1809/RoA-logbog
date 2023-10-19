@@ -63,7 +63,11 @@ men det er faktisk bare en url, hvor det er vi kan ændre stien. fx. /1 for tæn
 
 Projekt: Wifi + video
 
-https://github.com/Israa1809/RoA-logbog/assets/99342522/0e41efbe-77eb-430d-9521-6bc2ac1b292c
+
+https://github.com/Israa1809/RoA-logbog/assets/99342522/da39ffb3-1441-4bca-9e95-02215dc70370
+
+
+
 
 
 -----
@@ -150,7 +154,8 @@ Vi fik musikken til at spille, og knappen virker nu, så man kan tænde og slukk
 Idag fik vi printet vores litophane, og den er blevet rigtig fin. Vi har haft problemer med at dioderne,
 ikke lyste ordentlgit op, så mønterne ikke kunne ses, men det arbejder vi på.
 
-https://github.com/Israa1809/RoA-logbog/assets/99342522/561a224c-b9e4-4111-b11a-e28d83ce9acb
+https://github.com/Israa1809/RoA-logbog/assets/99342522/ad08bf08-2305-4fb0-b57f-eeccd4b9d822
+
 
 Knappen har fået loddet ledninger på.
 Æsken er gjort lidt større så der lige præcis er plads til nodeMCU + små boards til dioderne i bunden. 
@@ -183,7 +188,7 @@ Dette er det endelige design:
 Slut produkt (video):
 https://github.com/Israa1809/RoA-logbog/blob/main/Images/IMG_4454.mov
 
-https://github.com/Israa1809/RoA-logbog/assets/99342522/5899f73b-7ab5-4dbe-b5c5-335bad40b924
+https://github.com/Israa1809/RoA-logbog/assets/99342522/984ab862-48d6-4fc7-b480-07f835dd0cbd
 
 
 -----
@@ -205,10 +210,3 @@ men det er der ikke tid til. Så det ser sådan her ud indtil videre:
 ![](Images/B423BE9D-8BA2-4A8A-BC6E-B30EC6F7B26C.jpg)
 
 -----
-
-
-
-
-
-
-
