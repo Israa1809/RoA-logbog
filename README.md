@@ -151,7 +151,6 @@ Der er blevet bygget en holder til knappen ind i æsken - den lille holder testp
 Og så har æsken fået kanter som møntbilledet kan ligge og hvile på. Og nu printes der så på livet løs.
 ![](Images/litophane.jpg)
 ![](Images/Skrmbillede_2023-10-10_kl._20.43.50.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.02.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.27.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.34.png)![](Images/Skrmbillede_2023-10-10_kl._20.46.22.png)![](Images/Skrmbillede_2023-10-10_kl._20.46.33.png)![](Images/Skrmbillede_2023-10-10_kl._21.06.02.png)![](Images/Skrmbillede_2023-10-10_kl._21.06.13.png)
-----
 Vi havde problemer med supporten til vores 3D print, og derfor blev det ikke så pænt som vi havde håbet på.
 Så næste gang prøver vi igen og sætter det hele sammen. 
 Når det her projekt er færdigt, vil jeg se om ikke jeg kan få tid til et hygge-projekt i ferien.
@@ -159,6 +158,7 @@ Min inspiration er Simon-game, hvor man skal trykke på forskellige knapper med 
 og huske den sidste kombination. Jeg har samlet en masse ledninger, knapper, dioder, modstande, jumpere og en buzzer til spillet,
 og så må vi se hvor det fører hen.
 ![](Images/IMG_4569.jpg)
+
 -----
 ## 13-10-2023
 I dag fik vi lavet sidste print, sat musikken til og det hele spiller. 
