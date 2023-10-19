@@ -141,6 +141,7 @@ Vi fik musikken til at spille, og knappen virker nu, så man kan tænde og slukk
 
 -----
 ## 06-10-2023 - 10-10-2023
+
 Idag fik vi printet vores litophane, og den er blevet rigtig fin. Vi har haft problemer med at dioderne,
 ikke lyste ordentlgit op, så mønterne ikke kunne ses, men det arbejder vi på.
 Knappen har fået loddet ledninger på.
@@ -151,7 +152,6 @@ Og så har æsken fået kanter som møntbilledet kan ligge og hvile på. Og nu p
 ![](Images/litophane.jpg)
 ![](Images/Skrmbillede_2023-10-10_kl._20.43.50.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.02.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.27.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.34.png)![](Images/Skrmbillede_2023-10-10_kl._20.46.22.png)![](Images/Skrmbillede_2023-10-10_kl._20.46.33.png)![](Images/Skrmbillede_2023-10-10_kl._21.06.02.png)![](Images/Skrmbillede_2023-10-10_kl._21.06.13.png)
 ----
-
 Vi havde problemer med supporten til vores 3D print, og derfor blev det ikke så pænt som vi havde håbet på.
 Så næste gang prøver vi igen og sætter det hele sammen. 
 Når det her projekt er færdigt, vil jeg se om ikke jeg kan få tid til et hygge-projekt i ferien.
