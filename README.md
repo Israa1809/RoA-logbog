@@ -154,7 +154,7 @@ Og så har æsken fået kanter som møntbilledet kan ligge og hvile på. Og nu p
 ![](Images/Skrmbillede_2023-10-10_kl._20.43.50.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.02.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.27.png)![](Images/Skrmbillede_2023-10-10_kl._20.44.34.png)![](Images/Skrmbillede_2023-10-10_kl._20.46.22.png)![](Images/Skrmbillede_2023-10-10_kl._20.46.33.png)![](Images/Skrmbillede_2023-10-10_kl._21.06.02.png)![](Images/Skrmbillede_2023-10-10_kl._21.06.13.png)
 
 Vi havde problemer med supporten til vores 3D print, og derfor blev det ikke så pænt som vi havde håbet på.
-Så næste gang prøver vi igen og sætter det hele sammen.
+Så næste gang prøver vi igen og sætter det hele sammen. 
 
 Når det her projekt er færdigt, vil jeg se om ikke jeg kan få tid til et hygge-projekt i ferien.
 Min inspiration er Simon-game, hvor man skal trykke på forskellige knapper med hver deres tilhørende farver,
@@ -178,8 +178,21 @@ Slut produkt (video):
 https://github.com/Israa1809/RoA-logbog/blob/main/Images/IMG_4454.mov
 
 -----
-## 14-10-2023 - 
-
+## 14-10-2023 - 19-10-2023
 Inspiration:
 ![](Images/800px-Simon_Electronic_Game.jpg)
+De første par dage gik på at lede efter inspiration på nettet. Der er virkelig mange, som allerede har 
+lavet noget lignende, så der var masser af dokumentation at hente. 
+Jeg vil bruge 4 forskellig farvede dioder: rød, gul, grøn og blå. 
+Hver farve skal have en tilhørende knap.
+![](Images/getready.jpg)
+For at gøre det lidt sjovere, har jeg valgt bruge en buzzer til at spille forskellige lyde, alt afhængigt 
+af hvilken knap der bliver trykket på. Det kunne også være sjovt, at der blev afspillet en "taber" og en "vinder"
+lyd. Der ligger en del af de her toner på nettet, som jeg har tænkt mig at gøre brug af. 
+Ingen grund til at opfinde den dybe tallerken igen, især ikke med den korte tid jeg har tilbage.
+
+Planen var at få elektronikdelen på plads, og så printe en pæn kasse i med huller til dioder og knapper, 
+men det er der ikke tid til. Så det ser sådan her ud indtil videre:
+![](Images/B423BE9D-8BA2-4A8A-BC6E-B30EC6F7B26C.jpg)
+
 -----
