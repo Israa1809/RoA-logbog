@@ -176,11 +176,14 @@ Dette er det endelige design:
 
 Slut produkt (video):
 https://github.com/Israa1809/RoA-logbog/blob/main/Images/IMG_4454.mov
+https://github.com/Israa1809/RoA-logbog/assets/99342522/5899f73b-7ab5-4dbe-b5c5-335bad40b924
+
 
 -----
 ## 14-10-2023 - 19-10-2023
 Inspiration:
 ![](Images/800px-Simon_Electronic_Game.jpg)
+<<<<<<< HEAD
 De første par dage gik på at lede efter inspiration på nettet. Der er virkelig mange, som allerede har 
 lavet noget lignende, så der var masser af dokumentation at hente. 
 Jeg vil bruge 4 forskellig farvede dioder: rød, gul, grøn og blå. 
@@ -196,3 +199,10 @@ men det er der ikke tid til. Så det ser sådan her ud indtil videre:
 ![](Images/B423BE9D-8BA2-4A8A-BC6E-B30EC6F7B26C.jpg)
 
 -----
+
+
+
+
+
+
+
