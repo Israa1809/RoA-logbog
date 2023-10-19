@@ -44,6 +44,9 @@ Vi blev ikke færdige på dagen, og fortsatte derfor arbejdet i gruppen i fritid
 ![](Images/trafiklys.png)
 Projekt: traficlight + video
 
+https://github.com/Israa1809/RoA-logbog/assets/99342522/da0e765a-f208-42c1-b4d2-18b7591b1a94
+
+
 -----
 
 ## 29-08-2023
@@ -60,6 +63,9 @@ der hver havde deres farve, og påvirke dem til at slukke og tænde igennem wifi
 men det er faktisk bare en url, hvor det er vi kan ændre stien. fx. /1 for tænd og /2 for sluk
 
 Projekt: Wifi + video
+
+https://github.com/Israa1809/RoA-logbog/assets/99342522/0e41efbe-77eb-430d-9521-6bc2ac1b292c
+
 
 -----
 ## 15-09-2023
@@ -144,6 +150,9 @@ Vi fik musikken til at spille, og knappen virker nu, så man kan tænde og slukk
 
 Idag fik vi printet vores litophane, og den er blevet rigtig fin. Vi har haft problemer med at dioderne,
 ikke lyste ordentlgit op, så mønterne ikke kunne ses, men det arbejder vi på.
+
+https://github.com/Israa1809/RoA-logbog/assets/99342522/561a224c-b9e4-4111-b11a-e28d83ce9acb
+
 Knappen har fået loddet ledninger på.
 Æsken er gjort lidt større så der lige præcis er plads til nodeMCU + små boards til dioderne i bunden. 
 Der er blevet printet et større billede af mønterne til den nye størrelse æske. 
